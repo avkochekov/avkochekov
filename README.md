@@ -17,7 +17,7 @@
 
 Другие проекты можно посмотреть на [BitBucket](https://bitbucket.org/kerramon/):
 * [Engine Calculator](https://bitbucket.org/kerramon/enginecalc/) - программа расчета параметров двигателя внутреннего сгорания. Делался в качестве дипломного проекта для друга
-* [FGS-BOT](https://bitbucket.org/gulyash_team/fgs-bot/) - приложения с клиент-серверной архитектурой, написанное для управление самодельным роботом. Выполнено во время работы с кадетами Омского кадетского военного корпуса
+* [FGS-BOT](https://bitbucket.org/gulyash_team/fgs-bot/) - приложения с клиент-серверной архитектурой, написанное для управление самодельным роботом. Проект выполнен с кадетами Омского кадетского военного корпуса
 * [ReportGenerator](https://bitbucket.org/kerramon/danfosgraphgenerator/) - приложение генерации отчетов по таблицам из Excel
 * [Инвентарь](https://bitbucket.org/kerramon/inventory/) - тестовое задание при устройстве на работу. Выполнять его было весело и интересно :blush:
 
