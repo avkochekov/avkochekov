@@ -28,7 +28,7 @@
 ## 📫 Как со мной связаться
 :small_orange_diamond: Мое резюме на [HeadHunter](https://omsk.hh.ru/resume/11bbeee3ff0256ee390039ed1f61756d384c44) и [ХабрКарьера](https://career.habr.com/avkochekov)
 
-:small_orange_diamond: Так же пишите на почту [av.kochekov@yandex.ru](mailto:av.kochekov@yandex.ru) 
+:small_orange_diamond: Так же пишите на почту [av.kochekov@yandex.ru](mailto:av.kochekov@yandex.ru) или в [Telegram](https://t.me/tony55k)
 
 <!---
 avkochekov/avkochekov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
