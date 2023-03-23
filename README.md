@@ -24,7 +24,7 @@
 * [Поисковый сервер](https://github.com/avkochekov/cpp-search-server)
 * [Реализация простого вектора](https://github.com/avkochekov/cpp-simple-vector)
 * [Реализация односвязного списка](https://github.com/avkochekov/cpp-single-linked-list)
-* 
+
 Курс "Android-разработчик" (Яндекс Практикум):
 * [Консольное приложение для заметок](https://github.com/avkochekov/Kotlin-NoteStorage)
 
