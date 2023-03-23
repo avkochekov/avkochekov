@@ -26,7 +26,7 @@
 * [Реализация односвязного списка](https://github.com/avkochekov/cpp-single-linked-list)
 * 
 Курс "Android-разработчик" (Яндекс Практикум):
-* [Консольное приложение для заметок](https://github.com/avkochekov/Kotlin-Module-Project)
+* [Консольное приложение для заметок](https://github.com/avkochekov/Kotlin-NoteStorage)
 
 ## 📫 Как со мной связаться
 :small_orange_diamond: Мое резюме на [HeadHunter](https://omsk.hh.ru/resume/11bbeee3ff0256ee390039ed1f61756d384c44) и [ХабрКарьера](https://career.habr.com/avkochekov)
