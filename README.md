@@ -12,6 +12,7 @@
 
 ## :computer: Мои проекты 
 Проекты ниже перенесены сюда из [BitBucket](https://bitbucket.org/avkochekov). Думаю, так будет удобнее.
+* [EnDict](https://github.com/avkochekov/EnDict) - простое command-line приложение, помогающее мне в изучении Английского языка. Загружает html страницу, убирает html тэги и выводит в консоль только описание необходимого слова :mortar_board:
 * [QmlBackButtonHandling](https://github.com/avkochekov/QmlBackButtonHandling) - программа под Android - результат исследования-поиска оптимального варианта обработка нажатия на кнопку Back (или жеста) :iphone:
 * [Инвентарь](https://github.com/avkochekov/Invntory) - тестовое задание при устройстве на работу. Выполнять его было весело и интересно :blush:
 * [FGSBot](https://github.com/avkochekov/FGSBot) - приложения с клиент-серверной архитектурой, написанное для управление самодельным роботом. Проект выполнен с кадетами Омского кадетского военного корпуса
