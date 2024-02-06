@@ -11,7 +11,6 @@
 * Сейчас работаю в Integra Sources / Kedr Solutions системным разработчиком. Занимаюсь разработкой интерфейсов, структур баз данных, взаимодействием с внешними сервисами (REST API, JSON API). Наконец-то удалось погрузиться в мобильную разработку на Qt. Так же осваиваю CI/CD, docker.
 
 ## :computer: Мои проекты 
-Проекты ниже перенесены сюда из [BitBucket](https://bitbucket.org/avkochekov). Думаю, так будет удобнее.
 * [EnDict](https://github.com/avkochekov/EnDict) - простое command-line приложение, помогающее мне в изучении Английского языка. Загружает html страницу, убирает html тэги и выводит в консоль только описание необходимого слова :mortar_board:
 * [Database migration tool](https://github.com/avkochekov/DbMigrationTool) - простая библиотека, используемая для миграции базы даных.
 * [QmlBackButtonHandling](https://github.com/avkochekov/QmlBackButtonHandling) - программа под Android - результат исследования-поиска оптимального варианта обработка нажатия на кнопку Back (или жеста) :iphone:
