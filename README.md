@@ -27,8 +27,9 @@
 * [Реализация односвязного списка](https://github.com/avkochekov/cpp-single-linked-list)
 
 Курс "Android-разработчик" (Яндекс Практикум):
+* [Приложение для поиска вакансий](https://github.com/avkochekov/practicum-android-diploma) - итоговый командный проект
+* [PlayListMaker](https://github.com/avkochekov/PlaylistMaker) - позволяет создавать плейлисты с любимыми песнями
 * [Консольное приложение для заметок](https://github.com/avkochekov/Kotlin-NoteStorage)
-* [Мобильное приложение для поиска вакансий](https://github.com/avkochekov/practicum-android-diploma) - командный проект
 
 ## 📫 Как со мной связаться
 :small_orange_diamond: Мое резюме на [HeadHunter](https://omsk.hh.ru/resume/11bbeee3ff0256ee390039ed1f61756d384c44) и [ХабрКарьера](https://career.habr.com/avkochekov)
