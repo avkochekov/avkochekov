@@ -22,6 +22,7 @@
 
 ## :student: Учебный проекты
 Курс "Разработчик С++" (Яндекс Практикум):
+* [Электронная таблица](https://github.com/avkochekov/cpp-spreadsheet)
 * [Транспортный справочник](https://github.com/avkochekov/cpp-transport-catalogue)
 * [Поисковый сервер](https://github.com/avkochekov/cpp-search-server)
 * [Реализация простого вектора](https://github.com/avkochekov/cpp-simple-vector)
