@@ -13,8 +13,6 @@
 ## :computer: Проекты 
 * [RefereeHelper](https://github.com/avkochekov/RefereeHelper) - программный помощник судьи. Программа автоматизирует подсчет баллов на соревнованиях, имеет клиент-серверную архитектуру. Несколько раз использовалась при проведении реальных соревнований.
 * [EnDict](https://github.com/avkochekov/EnDict) - простое command-line приложение, помогающее мне в изучении Английского языка. Загружает html страницу, убирает html тэги и выводит в консоль только описание необходимого слова :mortar_board:
-* [Database migration tool](https://github.com/avkochekov/DbMigrationTool) - простая библиотека, используемая для миграции базы даных.
-* [QmlBackButtonHandling](https://github.com/avkochekov/QmlBackButtonHandling) - программа под Android - результат исследования-поиска оптимального варианта обработка нажатия на кнопку Back (или жеста) :iphone:
 * [Инвентарь](https://github.com/avkochekov/Invntory) - тестовое задание при устройстве на работу. Выполнять его было весело и интересно :blush:
 * [FGSBot](https://github.com/avkochekov/FGSBot) - приложения с клиент-серверной архитектурой, написанное для управление самодельным роботом. Проект выполнен с кадетами Омского кадетского военного корпуса
 * [ReportCreateApp](https://github.com/avkochekov/DanfossReportCreateApp) - приложение генерации отчетов по таблицам из Excel
